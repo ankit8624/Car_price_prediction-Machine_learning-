@@ -11,7 +11,7 @@ The company wants to know the following things:
 
 1]Which variables are significant in predicting the price of a car?  <br />
 2]How well do those variables describe the price of a car?  <br />
-Based on various market surveys, the consulting firm has gathered a large data set of different types of cars across the American market. __
+Based on various market surveys, the consulting firm has gathered a large data set of different types of cars across the American market.  <br />
 
 The company is required to model the price of cars with the available independent variables. The management will use this model to understand exactly how the prices vary with the independent variables. Accordingly, they can change the design of the cars, the business strategy, etc., to meet certain price levels. Further, the model will allow the management to understand the pricing dynamics of a new market.
 
